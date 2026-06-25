@@ -37,8 +37,7 @@ Career Tracker не использует облако и не отправляе
 
 Файл для macOS будет выглядеть примерно так:
 
-```text
-CareerTracker-1.0-macOS.zip
+`CareerTracker-1.0-macOS.zip`
 
 ## Первый запуск на macOS
 
