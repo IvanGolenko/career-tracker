@@ -1,5 +1,5 @@
 # Career Tracker
-<img width="619" height="320" alt="Снимок экрана 2026-06-28 в 20 45 28" src="https://github.com/user-attachments/assets/7935a2a1-a7ea-48c1-a562-93f10bddcdf4" />
+<p align="center"><img width="619" height="320" alt="Снимок экрана 2026-06-28 в 20 45 28" src="https://github.com/user-attachments/assets/7935a2a1-a7ea-48c1-a562-93f10bddcdf4" /></p>
 
 Career Tracker — это настольное приложение для macOS, которое помогает спокойно вести учёт откликов на вакансии.
 Приложение сделано для личного использования: один Mac, один владелец, одна локальная база данных.
