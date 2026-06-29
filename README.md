@@ -1,26 +1,41 @@
 # Career Tracker
-<p align="center"><img width="619" height="320" alt="Снимок экрана 2026-06-28 в 20 45 28" src="https://github.com/user-attachments/assets/7935a2a1-a7ea-48c1-a562-93f10bddcdf4" /></p>
 
-[![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/IvanGolenko/career-tracker/1.1.0/total?style=flat-square&color=blue)](https://github.com/IvanGolenko/career-tracker/releases/download/1.1.0/CareerTracker-1.1.0-macOS.zip)
-загрузить актуальную версию
+<p align="center">
+  <img width="619" height="320" alt="Career Tracker screenshot" src="https://github.com/user-attachments/assets/7935a2a1-a7ea-48c1-a562-93f10bddcdf4" />
+</p>
 
-Career Tracker — это настольное приложение для macOS, которое помогает спокойно вести учёт откликов на вакансии.
-Приложение сделано для личного использования: один Mac, один владелец, одна локальная база данных.
+<p align="center">
+  <a href="https://github.com/IvanGolenko/career-tracker/releases/latest">
+    <img src="https://img.shields.io/badge/Скачать_актуальную_версию-Career_Tracker-blue?style=for-the-badge" alt="Скачать Career Tracker" />
+  </a>
+</p>
 
-## Зачем оно нужно
-Когда откликов становится много, легко потеряться:
-- куда уже отправлено резюме;
-- где ждёшь ответа;
-- где было HR-интервью;
-- где дали тестовое;
-- где отказали;
-- какие вакансии уже неактуальны.
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-desktop_app-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Django-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/данные-локально-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/версия-1.2.5-orange?style=flat-square" />
+</p>
 
-Career Tracker собирает всё это в одном месте и помогает видеть реальную картину поиска работы.
+**Career Tracker** — настольное приложение для macOS, которое помогает спокойно вести учёт откликов на вакансии.
 
-## Что умеет
+Приложение сделано для личного использования: **один Mac, один владелец, одна локальная база данных.**
+
+---
+
+## 🧭 Зачем оно нужно
+
+Когда откликов становится много, обычных заметок и закладок уже не хватает. Вакансии теряются, статусы забываются, а поиск работы начинает ощущаться беспорядочным.
+
+Career Tracker помогает спокойно разложить процесс по полочкам: хранить отклики, отслеживать этапы, быстро находить нужные вакансии и понимать, что происходит с поиском прямо сейчас.
+
+---
+
+## ✨ Что умеет
+
 - создавать карточки откликов;
 - хранить компанию, вакансию, ссылку, зарплату, контакты и заметки;
+- автоматически заполнять данные вакансии по ссылке;
 - отмечать статус отклика;
 - искать по откликам;
 - фильтровать отклики по статусам;
@@ -29,20 +44,42 @@ Career Tracker собирает всё это в одном месте и пом
 - защищать приложение PIN-кодом;
 - хранить данные локально на устройстве.
 
-## Приватность
+---
+
+## 🔐 Приватность
+
 Career Tracker не использует облако и не отправляет данные на сервер.
+
 Все данные хранятся локально на вашем Mac.
 
-## Скачать
-Готовую версию приложения можно скачать в разделе:
+---
 
-**Releases**
+## 🛠️ Технологии
 
-Файл для macOS будет выглядеть примерно так:
+Проект собран как desktop-приложение поверх Django:
 
-`CareerTracker-1.0-macOS.zip`
+- Python
+- Django
+- SQLite
+- HTML / CSS
+- Bootstrap
+- openpyxl
+- pywebview
+- PyInstaller
 
-## Первый запуск на macOS
+---
+
+## 📦 Скачать
+
+Актуальная версия приложения доступна в разделе:
+
+[**Releases**](https://github.com/IvanGolenko/career-tracker/releases/latest)
+
+Файл для macOS выглядит примерно так: `CareerTracker-1.2.5-macOS.zip`
+
+---
+
+## 🍏 Первый запуск на macOS
 
 При первом запуске macOS может показать предупреждение:
 
@@ -52,7 +89,7 @@ Career Tracker не использует облако и не отправляе
 
 Чтобы открыть приложение:
 
-1. Распакуйте `CareerTracker-1.0-macOS.zip`.
+1. Распакуйте `CareerTracker-1.2.5-macOS.zip`.
 2. Найдите `Career Tracker.app`.
 3. Нажмите по приложению правой кнопкой мыши.
 4. Выберите **Открыть**.
@@ -67,3 +104,11 @@ Career Tracker не использует облако и не отправляе
 5. Подтвердите запуск.
 
 После первого подтверждения приложение будет открываться обычным двойным кликом.
+
+---
+
+## 👤 Для кого это приложение
+
+Career Tracker подойдёт тем, кто активно ищет работу и хочет вести отклики спокойно, без таблиц, заметок и хаоса в закладках.
+
+Особенно полезно, если вы откликаетесь на десятки вакансий и хотите видеть весь процесс в одном месте.
