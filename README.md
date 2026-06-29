@@ -81,6 +81,10 @@ Career Tracker не использует облако и не отправляе
 
 ## 🍏 Первый запуск на macOS
 
+<p align="center">
+<img width="823" height="208" alt="Снимок экрана 2026-06-26 в 19 22 46" src="https://github.com/user-attachments/assets/1033a74e-04eb-4b29-88e2-486c3996cedb" />
+</p>
+
 При первом запуске macOS может показать предупреждение:
 
 > Apple не удалось подтвердить, что файл «Career Tracker» не содержит вредоносного ПО.
