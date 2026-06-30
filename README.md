@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/macOS-desktop_app-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-Django-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/данные-локально-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/версия-1.2.5-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/версия-1.3.0-orange?style=flat-square" />
 </p>
 
 **Career Tracker** — настольное приложение для macOS, которое помогает спокойно вести учёт откликов на вакансии.
