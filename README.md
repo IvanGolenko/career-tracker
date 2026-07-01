@@ -79,7 +79,7 @@ Career Tracker не использует облако и не отправляе
 
 [**Releases**](https://github.com/IvanGolenko/career-tracker/releases/latest)
 
-Файл для macOS выглядит примерно так: `CareerTracker-1.2.5-macOS.zip`
+Файл для macOS выглядит примерно так: `CareerTracker-1.3.0-macOS.zip`
 
 ---
 
