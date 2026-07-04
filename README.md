@@ -12,12 +12,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-desktop_app-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/macOS-11%2B%20Big%20Sur-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apple%20Silicon-arm64-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-Django-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/данные-локально-green?style=flat-square" />
   <img src="https://img.shields.io/badge/версия-1.4.4-orange?style=flat-square" />
 </p>
 
-**Career Tracker** — настольное приложение для macOS, которое помогает спокойно вести учёт откликов на вакансии.
+**Career Tracker** — настольное приложение для macOS, которое помогает вести учёт откликов на вакансии.
 
 Приложение сделано для личного использования: **один Mac, один владелец, одна локальная база данных.**
 
@@ -29,9 +31,9 @@
   <img width="1279" height="688" alt="Снимок экрана 2026-06-30 в 12 41 58" src="https://github.com/user-attachments/assets/d546508a-dece-42d2-8e63-78a1f40cd221" />
 </p>
 
-Когда откликов становится много, обычных заметок и закладок уже не хватает. Вакансии теряются, статусы забываются, а поиск работы начинает ощущаться беспорядочным.
+Когда откликов становится много, обычных заметок и закладок уже не хватает. Вакансии теряются, статусы забываются, а поиск работы начинает ощущаться беспорядочным. Особенно полезно, если вы откликаетесь на десятки вакансий и хотите видеть весь процесс в одном месте.
 
-Career Tracker помогает спокойно разложить процесс по полочкам: хранить отклики, отслеживать этапы, быстро находить нужные вакансии и понимать, что происходит с поиском прямо сейчас.
+**Career Tracker** помогает разложить процесс по полочкам: хранить отклики, отслеживать этапы, быстро находить нужные вакансии и понимать, что происходит с поиском работы прямо сейчас.
 
 ---
 
@@ -56,21 +58,6 @@ Career Tracker не использует "облако" и не отправля
 Все данные хранятся локально на вашем Mac.
 
 >**1 пользователь = 1 приложение = 1 локальная база**
-
----
-
-## 🛠️ Технологии
-
-Проект собран как desktop-приложение поверх Django:
-
-- Python
-- Django
-- SQLite
-- HTML / CSS
-- Bootstrap
-- openpyxl
-- pywebview
-- PyInstaller
 
 ---
 
@@ -116,11 +103,34 @@ Career Tracker не использует "облако" и не отправля
 
 ---
 
-## 👤 Для кого это приложение
+## 💻 Поддержка macOS
 
-Career Tracker подойдёт тем, кто активно ищет работу и хочет вести отклики спокойно, без таблиц, заметок и хаоса в закладках.
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-11%2B%20Big%20Sur-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apple%20Silicon-arm64-black?style=flat-square" />
+</p>
 
-Особенно полезно, если вы откликаетесь на десятки вакансий и хотите видеть весь процесс в одном месте.
+Текущая версия Career Tracker собрана для Mac с процессорами Apple Silicon.
+
+Поддерживается:
+- macOS 11 Big Sur и новее;
+
+> Для Mac с Intel-процессором и Windows-устройств отдельная сборка пока не публикуется.
+
+---
+
+## 🛠️ Технологии
+
+Проект собран как desktop-приложение поверх Django:
+
+- Python
+- Django
+- SQLite
+- HTML / CSS
+- Bootstrap
+- openpyxl
+- pywebview
+- PyInstaller
 
 ---
 
