@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/macOS-desktop_app-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-Django-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/данные-локально-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/версия-1.3.0-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/версия-1.4.4-orange?style=flat-square" />
 </p>
 
 **Career Tracker** — настольное приложение для macOS, которое помогает спокойно вести учёт откликов на вакансии.
@@ -80,7 +80,7 @@ Career Tracker не использует "облако" и не отправля
 
 [**Releases**](https://github.com/IvanGolenko/career-tracker/releases/latest)
 
-Файл для macOS выглядит примерно так: `CareerTracker-1.3.0-macOS.zip`
+Файл для macOS выглядит примерно так: `CareerTracker-1.4.4-macOS.zip`
 
 ---
 
@@ -98,7 +98,7 @@ Career Tracker не использует "облако" и не отправля
 
 Чтобы открыть приложение:
 
-1. Распакуйте `CareerTracker-1.3.0-macOS.zip`.
+1. Распакуйте `CareerTracker-1.4.4-macOS.zip`.
 2. Найдите `Career Tracker.app`.
 3. Нажмите по приложению правой кнопкой мыши.
 4. Выберите **Открыть**.
