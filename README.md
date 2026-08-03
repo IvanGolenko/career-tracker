@@ -1,4 +1,4 @@
-# Career Tracker
+# Career Tracker | Карьерный трекер
 
 <p align="center">
   <img width="619" height="320" alt="Career Tracker screenshot" src="https://github.com/user-attachments/assets/7935a2a1-a7ea-48c1-a562-93f10bddcdf4" />
